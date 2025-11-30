@@ -1,9 +1,9 @@
-package entities;
+package com.mlp.entities;
 import java.util.Date;
 
-import enums.Genero;
-import exceptions.InvalidDateException;
-import exceptions.InvalidNameException;
+import com.mlp.enums.Genero;
+import com.mlp.exceptions.InvalidDateException;
+import com.mlp.exceptions.InvalidNameException;
 
 
 public class Pessoa {    

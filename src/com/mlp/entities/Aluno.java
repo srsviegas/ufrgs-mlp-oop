@@ -2,11 +2,11 @@ package com.mlp.entities;
 
 import java.util.Date;
 
-import enums.Genero;
-import enums.NivelMatricula;
-import exceptions.InvalidDateException;
-import exceptions.InvalidEnrollmentException;
-import exceptions.InvalidNameException;
+import com.mlp.enums.Genero;
+import com.mlp.enums.NivelMatricula;
+import com.mlp.exceptions.InvalidDateException;
+import com.mlp.exceptions.InvalidEnrollmentException;
+import com.mlp.exceptions.InvalidNameException;
 
 public class Aluno extends Pessoa {
 

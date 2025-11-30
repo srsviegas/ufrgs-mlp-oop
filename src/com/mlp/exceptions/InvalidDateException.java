@@ -1,4 +1,4 @@
-package exceptions;
+package com.mlp.exceptions;
 
 public class InvalidDateException extends Exception {
 
